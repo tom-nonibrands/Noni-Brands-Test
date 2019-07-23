@@ -19,6 +19,6 @@ appealing way. Spend approximately 25 minutes on it.
 
 API Endpoint: https://newsapi.org/v2/top-headlines?country=us&apiKey=9e56665dd12747d699700625112fe619
 
-### PART 2: Submit
+### PART 3: Submit
 
-Send
+Create a ZIP file from your solution folder and email it to tom@nonibrands.com
