@@ -4,7 +4,7 @@
 
 ### PART 1: CSS
 
-Using CSS properties alone, recredsdate the button
+Using CSS properties alone, recreate the button
 on the page. Spend approximately 20 minutes on it,
 we don't expect it to be a perfect match.
 
